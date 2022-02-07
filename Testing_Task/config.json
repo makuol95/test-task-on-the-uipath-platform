@@ -1,0 +1,11 @@
+{
+  "PathExeBrowser": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+  "MailLogin": "r.uipath.test@yandex.ru",
+  "MailPassword": "Uipath987654321",
+  "ClouseBruser": "false",
+  "PortServet":"465",
+  "NameServet":"smtp.yandex.ru",
+  "PathToExcel":"C:\\Users\\lord-\\Desktop\\project\\UIpath_Test_Task\\Testing_Task\\temp_excel",
+  "NameExcelFile":"123.xlsx",
+  "":""
+}
